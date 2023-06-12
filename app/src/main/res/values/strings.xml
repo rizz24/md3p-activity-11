@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activity11</string>
+    <string name="title_home">Items</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">Transactions</string>
+    <string name="sample_text">sample text</string>
+    <string name="title">Title</string>
+    <string name="todo">TODO</string>
+    <string name="quanity">Quanity</string>
+</resources>
